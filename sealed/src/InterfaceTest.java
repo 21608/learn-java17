@@ -1,3 +1,3 @@
-public sealed interface InterfaceTest permits ImplementationClass,NonSealedTest {
+public sealed interface InterfaceTest permits ImplementationClass,NonSealedTest,InnerClassTest {
 
 }
